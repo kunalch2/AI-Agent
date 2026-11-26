@@ -1,0 +1,7 @@
+Project Name: Smart library system
+
+Project duration: 2 years
+
+Programming language: Python
+
+Objective is to automate library management
